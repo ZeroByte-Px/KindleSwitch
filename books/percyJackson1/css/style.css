@@ -1,8 +1,10 @@
 .pdf{
-    transform: rotate(90deg);
-    margin: 0;
-    padding: 0;
-    
+  transform: rotate(90deg);
+  margin: 20px;
+  padding: 0;
+  height: 100%;
+  left: 50%;
+  position: relative;
 }
 
 body{
